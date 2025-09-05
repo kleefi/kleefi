@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Kleefi
-
-Welcome to my GitHub profile!  
+# Welcome to my GitHub profile!  
 I’m passionate about **digital solutions**, including **web development** and **digital marketing**, and I love building useful tools that make an impact.  
 
 ---
